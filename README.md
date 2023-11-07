@@ -2,4 +2,3 @@
 Hello everyone
 I added the image and edited it in Google Colab. I added it to Github.
 Have a nice day.
-
